@@ -45,7 +45,7 @@ To set up the SwagLabs Website locally, follow these steps:
 
 2. Navigate to the project directory:
 
-* cd TutorialsNinga
+* cd SwagLabs
 
 3. Install dependencies:
 
