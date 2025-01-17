@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="New Demo Suite File">
+
+    <test name="Proceed To Chekout">
+        <classes>
+            <class name="testcases.TC04_CheckoutPage">
+                <methods>
+                    <include name="CompleteCheckout_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
