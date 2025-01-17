@@ -5,7 +5,7 @@
 
     <test name="Proceed To Chekout">
         <classes>
-            <class name="testcases.TC04_CheckoutPage">
+            <class name="testcases.TC02_CheckoutPage">
                 <methods>
                     <include name="CompleteCheckout_P"/>
                 </methods>

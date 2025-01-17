@@ -1,6 +1,5 @@
 package testcases;
 
-import org.openqa.selenium.JavascriptExecutor;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.*;
@@ -9,7 +8,7 @@ import static drivers.DriverHolder.getDriver;
 import static pages.PO2_ProductPage.totalPrice;
 import static util.UtilityCodes.*;
 
-public class TC04_CheckoutPage extends TestBase {
+public class TC02_CheckoutPage extends TestBase {
 
     String fName = generateRandomFirstName();
     String lName = generateRandomLasttName();
