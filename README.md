@@ -14,7 +14,7 @@
 ## Introduction
 
 SwagLabs is a demo e-commerce platform showcasing features shopping functionalities, including viewing products, adding
-random product to the cart, and completing a checkout process.
+products to the cart, and completing a checkout process.
 This repository contains the source code for the SwagLabs Website.
 
 ## Examples
